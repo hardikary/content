@@ -6,7 +6,7 @@ tags:
   - SVG
   - Types
   - data types
----
+  - swift UIKIT
 
 SVG makes use of a number of data types. This article lists these types along with their syntax and descriptions of what they're used for.
 
